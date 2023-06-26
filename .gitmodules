@@ -1,0 +1,12 @@
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = https://github.com/JakkNaj/odin-recipes.git
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/JakkNaj/Landing-page.git
+[submodule "css-exercises"]
+	path = css-exercises
+	url = https://github.com/JakkNaj/css-exercises.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/JakkNaj/rock-paper-scissors.git
