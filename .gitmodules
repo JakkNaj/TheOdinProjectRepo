@@ -10,3 +10,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/JakkNaj/rock-paper-scissors.git
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = https://github.com/JakkNaj/javascript-exercises
