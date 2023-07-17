@@ -13,3 +13,6 @@
 [submodule "javascript-exercises"]
 	path = javascript-exercises
 	url = https://github.com/JakkNaj/javascript-exercises
+[submodule "JavaScript30"]
+	path = JavaScript30
+	url = https://github.com/JakkNaj/JavaScript30
