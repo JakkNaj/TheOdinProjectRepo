@@ -16,3 +16,6 @@
 [submodule "JavaScript30"]
 	path = JavaScript30
 	url = https://github.com/JakkNaj/JavaScript30
+[submodule "Etch-a-Sketch"]
+	path = Etch-a-Sketch
+	url = https://github.com/JakkNaj/Etch-a-Sketch
