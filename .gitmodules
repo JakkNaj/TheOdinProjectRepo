@@ -19,3 +19,6 @@
 [submodule "Etch-a-Sketch"]
 	path = Etch-a-Sketch
 	url = https://github.com/JakkNaj/Etch-a-Sketch
+[submodule "odin-calculator"]
+	path = odin-calculator
+	url = https://github.com/JakkNaj/odin-calculator
