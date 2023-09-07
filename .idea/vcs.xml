@@ -7,7 +7,10 @@
     <mapping directory="$PROJECT_DIR$/css-exercises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javascript-exercises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/landing-page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odin-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/odin-recipes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rock-paper-scissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sign-up-form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sign-up-form/sign-up-form" vcs="Git" />
   </component>
 </project>
