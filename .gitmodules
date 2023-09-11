@@ -25,3 +25,6 @@
 [submodule "sign-up-form"]
 	path = sign-up-form
 	url = https://github.com/JakkNaj/sign-up-form.git
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/JakkNaj/grid-AdminDashboard
