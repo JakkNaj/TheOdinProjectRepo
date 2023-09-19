@@ -28,3 +28,9 @@
 [submodule "grid-AdminDashboard"]
 	path = grid-AdminDashboard
 	url = https://github.com/JakkNaj/grid-AdminDashboard
+[submodule "Odin-TicTacToe"]
+	path = Odin-TicTacToe
+	url = https://github.com/JakkNaj/Odin-TicTacToe
+[submodule "Odin-library"]
+	path = Odin-library
+	url = https://github.com/JakkNaj/Odin-library

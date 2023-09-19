@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Etch-a-Sketch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaScript30" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/admin-dashboard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/css-exercises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javascript-exercises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/landing-page" vcs="Git" />
